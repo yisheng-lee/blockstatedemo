@@ -1,4 +1,3 @@
 # blockstatedemo
 
 Trigger
-Trigger
